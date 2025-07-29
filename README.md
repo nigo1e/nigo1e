@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Minecraft**
 
-- 📫 How to reach me **t232856**
-
 <p align="left">
 </p>
 
