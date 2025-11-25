@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigo1e&label=Profile%20views&color=0e75b6&style=flat" alt="nigo1e" /> </p>
 
 
-- 🌱 I’m currently learning **Minecraft**
+- 🌱 I’m currently learning something.
 
 <p align="left">
 </p>
